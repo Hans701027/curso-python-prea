@@ -49,5 +49,9 @@ mensaje = "Este no esta bien"
 # El reto es que se imprima "Esto no esta bien"
 print(mensaje)
 
+# Solucion
 
+mensaje = "Este no esta bien"
 
+print(mensaje[0:2] +"o" + mensaje[4:]
+      
